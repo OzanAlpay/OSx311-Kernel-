@@ -1,0 +1,6 @@
+make
+mount /media/floppy0
+cp kernel /media/floppy0/
+umount /media/floppy0
+
+
